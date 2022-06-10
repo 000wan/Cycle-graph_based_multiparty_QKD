@@ -6,4 +6,4 @@
 - Quantum Key Distribution : 양자 키 분배
 
 ## Copyright
-- Copyright© 2021. 권영완. All rights reserved.
+- Copyright© 2022. 권영완. All rights reserved.
